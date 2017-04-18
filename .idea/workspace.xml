@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="Z_1.6 end">
+    <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Z_1.7.php" afterPath="$PROJECT_DIR$/Z_1.7.php" />
     </list>
     <ignored path="zadanie_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -225,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492514257496</updated>
-      <workItem from="1492514258871" duration="11134000" />
+      <workItem from="1492514258871" duration="11142000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -276,11 +275,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492527288482</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Z_1.7 end">
+      <created>1492527306679</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1492527306679</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11134000" />
+    <option name="totallyTimeSpent" value="11142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -315,7 +321,8 @@
     <MESSAGE value="Z_1.4 end" />
     <MESSAGE value="Z_1.5 end" />
     <MESSAGE value="Z_1.6 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Z_1.6 end" />
+    <MESSAGE value="Z_1.7 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Z_1.7 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
