@@ -13,5 +13,4 @@ for ($i=0; $i<strlen($n)-1;$i++)
         }
     }
 }
-
 echo "No";
