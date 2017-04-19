@@ -13,8 +13,7 @@ else
 }
 
 function k_pow($a,$b)
-{
-    $a1=$a;
+{    $a1=$a;
     for ($i=1;$i<$b;$i++)
     {
         $a1=$a1*$a;

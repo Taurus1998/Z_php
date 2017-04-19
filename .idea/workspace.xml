@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
+    <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="Z_1.10 end">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Z_1.9.php" afterPath="$PROJECT_DIR$/Z_1.9.php" />
     </list>
@@ -108,8 +108,8 @@
       <file leaf-file-name="Z_1.9.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Z_1.9.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -271,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1492514257496</updated>
       <workItem from="1492514258871" duration="11929000" />
-      <workItem from="1492603988079" duration="8522000" />
+      <workItem from="1492603988079" duration="8549000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -371,11 +371,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492611238071</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Z_1.10 end">
+      <created>1492612577061</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1492612577061</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20451000" />
+    <option name="totallyTimeSpent" value="20478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -570,8 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Z_1.9.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
