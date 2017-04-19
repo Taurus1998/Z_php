@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Z_1.10.php" afterPath="$PROJECT_DIR$/Z_1.10.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Z_1.9.php" afterPath="$PROJECT_DIR$/Z_1.9.php" />
     </list>
     <ignored path="zadanie_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +38,8 @@
       <file leaf-file-name="Z_1.2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Z_1.2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -48,8 +48,8 @@
       <file leaf-file-name="Z_1.3.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Z_1.3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="1" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -58,8 +58,8 @@
       <file leaf-file-name="Z_1.4.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Z_1.4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="34">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -78,8 +78,8 @@
       <file leaf-file-name="Z_1.6.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Z_1.6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="34">
+              <caret line="2" column="10" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -89,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/Z_1.7.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="14" />
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -105,17 +105,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_1.9.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Z_1.9.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Z_1.9.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_1.10.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Z_1.10.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Z_1.10.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -141,8 +141,8 @@
         <option value="$PROJECT_DIR$/Z_1.6.php" />
         <option value="$PROJECT_DIR$/Z_1.7.php" />
         <option value="$PROJECT_DIR$/Z_1.8.php" />
-        <option value="$PROJECT_DIR$/Z_1.9.php" />
         <option value="$PROJECT_DIR$/Z_1.10.php" />
+        <option value="$PROJECT_DIR$/Z_1.9.php" />
       </list>
     </option>
   </component>
@@ -271,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1492514257496</updated>
       <workItem from="1492514258871" duration="11929000" />
-      <workItem from="1492603988079" duration="7183000" />
+      <workItem from="1492603988079" duration="8522000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -364,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492610131485</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Z_1.10 end">
+      <created>1492611238071</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1492611238071</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19112000" />
+    <option name="totallyTimeSpent" value="20451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -417,7 +424,8 @@
     <MESSAGE value="Z_1.8 end" />
     <MESSAGE value="Z_1.9 end" />
     <MESSAGE value="Z_1.10 ???" />
-    <option name="LAST_COMMIT_MESSAGE" value="Z_1.10 ???" />
+    <MESSAGE value="Z_1.10 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Z_1.10 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -488,22 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="1" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Z_1.1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -512,18 +504,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.7.php">
+    <entry file="file://$PROJECT_DIR$/Z_1.2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.6.php">
+    <entry file="file://$PROJECT_DIR$/Z_1.3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Z_1.4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -536,10 +536,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.4.php">
+    <entry file="file://$PROJECT_DIR$/Z_1.6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Z_1.7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -552,18 +560,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Z_1.10.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Z_1.9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
