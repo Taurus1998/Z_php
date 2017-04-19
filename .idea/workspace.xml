@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="Z_1.10 end">
+    <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Z_1.9.php" afterPath="$PROJECT_DIR$/Z_1.9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Z_1.10.php" afterPath="$PROJECT_DIR$/Z_1.10.php" />
     </list>
     <ignored path="zadanie_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,21 +105,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_1.9.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Z_1.9.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Z_1.9.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="20" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_1.10.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Z_1.10.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Z_1.10.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="612">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -141,8 +141,8 @@
         <option value="$PROJECT_DIR$/Z_1.6.php" />
         <option value="$PROJECT_DIR$/Z_1.7.php" />
         <option value="$PROJECT_DIR$/Z_1.8.php" />
-        <option value="$PROJECT_DIR$/Z_1.10.php" />
         <option value="$PROJECT_DIR$/Z_1.9.php" />
+        <option value="$PROJECT_DIR$/Z_1.10.php" />
       </list>
     </option>
   </component>
@@ -271,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1492514257496</updated>
       <workItem from="1492514258871" duration="11929000" />
-      <workItem from="1492603988079" duration="8549000" />
+      <workItem from="1492603988079" duration="8648000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -378,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492612577061</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Z_1.9 end">
+      <created>1492612607911</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1492612607911</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20478000" />
+    <option name="totallyTimeSpent" value="20577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -429,10 +436,10 @@
     <MESSAGE value="Z_1.6 end" />
     <MESSAGE value="Z_1.7 end" />
     <MESSAGE value="Z_1.8 end" />
-    <MESSAGE value="Z_1.9 end" />
     <MESSAGE value="Z_1.10 ???" />
     <MESSAGE value="Z_1.10 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Z_1.10 end" />
+    <MESSAGE value="Z_1.9 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Z_1.9 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -567,18 +574,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.10.php">
+    <entry file="file://$PROJECT_DIR$/Z_1.9.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="20" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_1.9.php">
+    <entry file="file://$PROJECT_DIR$/Z_1.10.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="612">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding />
         </state>
       </provider>

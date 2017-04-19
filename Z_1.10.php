@@ -6,7 +6,7 @@ $n=$_GET['n'];
 
 for ($i=$n;$i>10;$i--)
 {
-    if(pr($i)==true && pr(pow($i,2))==true )
+    if(pr($i)==true && pr(k_pow($i,2))==true )
     {
         echo $i."<br>";
     }
@@ -26,5 +26,13 @@ function pr($k)
     return true;
 }
 
+function k_pow($a,$b)
+{
+    $a1 = $a;
+    for ($i = 1; $i < $b; $i++) {
+        $a1 = $a1 * $a;
+    }
+    return $a1;
 
+}
 ?>
