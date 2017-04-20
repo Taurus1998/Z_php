@@ -3,7 +3,7 @@
 
 </head>
 <body>
-<form action="Z_3.7.php" method="POST">
+<form action="Z_3.9.php" method="POST">
     <input name="st" maxlength="50" size="50" value="">
     <button name="bt" value="1"  type="submit" class="button button_action">
         Enter
@@ -15,35 +15,31 @@ if ($bt1 ==1) {
     $st1 = $_POST["st"];
     trim($st1);
     $mas = explode(' ', $st1);
-    $a=0;
-    $b=0;
     $max=$mas[0];
-    $min=2147483647;;
+    $min=2147483647;
     print_r($mas);
-    for($i=0;$i<count($mas)-1;$i++)
+    echo "<br>";
+    for($i=0;$i<count($mas);$i++)
     {
-        if($mas[$i]+$mas[$i+1]>$max)
+        if ($mas[$i]>$max && $mas[$i] %2 ==0)
         {
-            $max=$mas[$i]+$mas[$i+1];
+            $max=$mas[$i];
             $a=$i;
         }
-
-        if ($mas[$i+1]+$mas[$i]<=$min)
+        if ($mas[$i]<$min && $mas[$i] %2 <>0)
         {
-            $min=$mas[$i+1]+$mas[$i];
-            $b=$i+1;
+            $min=$mas[$i];
+            $b=$i;
         }
 
     }
 
-    echo "<br>Max=".$a.";<br>Min=".$b.";";
-
-
-
-
+    echo "<br>Max=".$max.";<br>Min=".$min.";";
 }
 ?>
 
 </body>
 </html>
+
+
 

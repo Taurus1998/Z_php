@@ -18,7 +18,7 @@ if ($bt1 ==1) {
     $a=0;
     $b=0;
     $max=$mas[0];
-    $min=$mas[0];
+    $min=$min=2147483647;;
     print_r($mas);
     echo "<br>";
     for($i=0;$i<count($mas);$i++)
