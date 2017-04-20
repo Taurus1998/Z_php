@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie_4/Z_4.1.php" afterPath="$PROJECT_DIR$/Zadanie_4/Z_4.1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie_4/Z_4.2.php" afterPath="$PROJECT_DIR$/Zadanie_4/Z_4.2.php" />
     </list>
     <ignored path="zadanie_1.iws" />
@@ -49,28 +48,28 @@
       <file leaf-file-name="Z_3.10.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.10.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="53">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_4.1.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Z_4.1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_4.2.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Z_4.2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -104,8 +103,8 @@
         <option value="$PROJECT_DIR$/Zadanie_3/Z_3.7.php" />
         <option value="$PROJECT_DIR$/Zadanie_3/Z_3.9.php" />
         <option value="$PROJECT_DIR$/Zadanie_3/Z_3.10.php" />
-        <option value="$PROJECT_DIR$/Zadanie_4/Z_4.2.php" />
         <option value="$PROJECT_DIR$/Zadanie_4/Z_4.1.php" />
+        <option value="$PROJECT_DIR$/Zadanie_4/Z_4.2.php" />
       </list>
     </option>
   </component>
@@ -250,7 +249,7 @@
       <updated>1492514257496</updated>
       <workItem from="1492514258871" duration="11929000" />
       <workItem from="1492603988079" duration="10289000" />
-      <workItem from="1492684702104" duration="11131000" />
+      <workItem from="1492684702104" duration="12350000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -462,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492695866974</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Z_4.1 end">
+      <created>1492695900158</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1492695900158</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33349000" />
+    <option name="totallyTimeSpent" value="34568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -830,26 +836,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.10.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="53">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
           <folding />
         </state>
       </provider>
