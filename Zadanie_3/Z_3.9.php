@@ -31,7 +31,6 @@ if ($bt1 ==1) {
             $min=$mas[$i];
             $b=$i;
         }
-
     }
 
     echo "<br>Max=".$max.";<br>Min=".$min.";";
