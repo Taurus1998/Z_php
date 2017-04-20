@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zadanie_4/Z_4.4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zadanie_4/Z_4.5.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zadanie_1.iws" />
@@ -28,27 +28,42 @@
       <file leaf-file-name="Z_4.3.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="306">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
               <folding>
                 <element signature="e#55#232#0#PHP" expanded="false" />
                 <element signature="e#234#605#0#PHP" expanded="false" />
                 <element signature="n#Up#0;n#!!top" expanded="false" />
                 <element signature="n#Down#0;n#!!top" expanded="false" />
-                <marker date="1492698814318" expanded="false" signature="979:1142" ph="{...}" />
+                <element signature="n#maxK#0;n#!!top" expanded="false" />
                 <marker date="1492698814318" expanded="false" signature="1163:1329" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_4.4.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Z_4.4.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="323">
+              <caret line="19" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="n#pr#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Z_4.5.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <folding>
+                <element signature="e#92#251#0#PHP" expanded="false" />
+                <element signature="e#254#460#0#PHP" expanded="false" />
+                <element signature="n#krat#0;n#!!top" expanded="false" />
+                <marker date="1492700913288" expanded="false" signature="653:773" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -96,6 +111,7 @@
         <option value="$PROJECT_DIR$/Zadanie_4/Z_4.2.php" />
         <option value="$PROJECT_DIR$/Zadanie_4/Z_4.3.php" />
         <option value="$PROJECT_DIR$/Zadanie_4/Z_4.4.php" />
+        <option value="$PROJECT_DIR$/Zadanie_4/Z_4.5.php" />
       </list>
     </option>
   </component>
@@ -240,7 +256,7 @@
       <updated>1492514257496</updated>
       <workItem from="1492514258871" duration="11929000" />
       <workItem from="1492603988079" duration="10289000" />
-      <workItem from="1492684702104" duration="14634000" />
+      <workItem from="1492684702104" duration="16144000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -473,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492698824043</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Z_4.4 end">
+      <created>1492699436256</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1492699436256</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36852000" />
+    <option name="totallyTimeSpent" value="38362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -540,11 +563,12 @@
     <MESSAGE value="Z_4.1 end" />
     <MESSAGE value="Z_4.2 end" />
     <MESSAGE value="Z_4.3 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Z_4.3 end" />
+    <MESSAGE value="Z_4.4 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Z_4.4 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -859,21 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#55#232#0#PHP" expanded="false" />
-            <element signature="e#234#605#0#PHP" expanded="false" />
-            <element signature="n#Up#0;n#!!top" expanded="false" />
-            <element signature="n#Down#0;n#!!top" expanded="false" />
-            <marker date="1492698814318" expanded="false" signature="979:1142" ph="{...}" />
-            <marker date="1492698814318" expanded="false" signature="1163:1329" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Z_1.6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -882,12 +891,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
+          <folding>
+            <element signature="e#55#232#0#PHP" expanded="false" />
+            <element signature="e#234#605#0#PHP" expanded="false" />
+            <element signature="n#Up#0;n#!!top" expanded="false" />
+            <element signature="n#Down#0;n#!!top" expanded="false" />
+            <element signature="n#maxK#0;n#!!top" expanded="false" />
+            <marker date="1492698814318" expanded="false" signature="1163:1329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="n#pr#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#92#251#0#PHP" expanded="false" />
+            <element signature="e#254#460#0#PHP" expanded="false" />
+            <element signature="n#krat#0;n#!!top" expanded="false" />
+            <marker date="1492700913288" expanded="false" signature="653:773" ph="{...}" />
           </folding>
         </state>
       </provider>
