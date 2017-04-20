@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zadanie_3/Z_3.2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zadanie_3/Z_3.3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie_3/Z_3.1.php" afterPath="$PROJECT_DIR$/Zadanie_3/Z_3.1.php" />
     </list>
     <ignored path="zadanie_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,17 +29,27 @@
         <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="444">
-              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="37" />
+              <caret line="33" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z_3.2.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Z_3.2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <caret line="32" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Z_3.3.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="597">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -76,6 +85,7 @@
         <option value="$PROJECT_DIR$/Z_1.10.php" />
         <option value="$PROJECT_DIR$/Zadanie_3/Z_3.1.php" />
         <option value="$PROJECT_DIR$/Zadanie_3/Z_3.2.php" />
+        <option value="$PROJECT_DIR$/Zadanie_3/Z_3.3.php" />
       </list>
     </option>
   </component>
@@ -220,7 +230,7 @@
       <updated>1492514257496</updated>
       <workItem from="1492514258871" duration="11929000" />
       <workItem from="1492603988079" duration="10289000" />
-      <workItem from="1492684702104" duration="982000" />
+      <workItem from="1492684702104" duration="1644000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -348,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492614182619</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Z_3.2 end">
+      <created>1492685691487</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1492685691487</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23200000" />
+    <option name="totallyTimeSpent" value="23862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -403,7 +420,8 @@
     <MESSAGE value="Z_1.9 end" />
     <MESSAGE value="Z_1.10 end" />
     <MESSAGE value="Z_3.1 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Z_3.1 end" />
+    <MESSAGE value="Z_3.2 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Z_3.2 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -634,18 +652,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.1.php">
+    <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="37" />
+        <state relative-caret-position="359">
+          <caret line="32" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.2.php">
+    <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="444">
+          <caret line="33" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_3/Z_3.3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           <folding />
         </state>
       </provider>
