@@ -2,7 +2,6 @@
 
 $mas = array();
 $masStr = array();
-$rezult=array();
 $n=3;
 
 

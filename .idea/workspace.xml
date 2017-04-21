@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15653739-806b-4764-ade8-035c4cac3c86" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zadanie_4/Z_4.6.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie_4/Z_4.6.php" afterPath="$PROJECT_DIR$/Zadanie_4/Z_4.6.php" />
     </list>
     <ignored path="zadanie_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,11 +60,11 @@
       <file leaf-file-name="Z_4.6.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding>
-                <element signature="e#67#226#0#PHP" expanded="false" />
-                <element signature="e#228#528#0#PHP" expanded="false" />
+                <element signature="e#50#209#0#PHP" expanded="false" />
+                <element signature="e#211#511#0#PHP" expanded="false" />
                 <element signature="n#neotr#0;n#!!top" expanded="false" />
                 <element signature="n#umnvektor#0;n#!!top" expanded="false" />
               </folding>
@@ -251,7 +251,7 @@
       <workItem from="1492514258871" duration="11929000" />
       <workItem from="1492603988079" duration="10289000" />
       <workItem from="1492684702104" duration="16226000" />
-      <workItem from="1492771073677" duration="2367000" />
+      <workItem from="1492771073677" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1492518323428</created>
@@ -498,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492700920288</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Z_4.6 end">
+      <created>1492773453725</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1492773453725</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40811000" />
+    <option name="totallyTimeSpent" value="40869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -541,7 +548,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Z_1.2 end" />
     <MESSAGE value="Z_1.3 end" />
     <MESSAGE value="Z_1.4 end" />
     <MESSAGE value="Z_1.5 end" />
@@ -566,7 +572,8 @@
     <MESSAGE value="Z_4.3 end" />
     <MESSAGE value="Z_4.4 end" />
     <MESSAGE value="Z_4.5 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Z_4.5 end" />
+    <MESSAGE value="Z_4.6 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Z_4.6 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -949,11 +956,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie_4/Z_4.6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding>
-            <element signature="e#67#226#0#PHP" expanded="false" />
-            <element signature="e#228#528#0#PHP" expanded="false" />
+            <element signature="e#50#209#0#PHP" expanded="false" />
+            <element signature="e#211#511#0#PHP" expanded="false" />
             <element signature="n#neotr#0;n#!!top" expanded="false" />
             <element signature="n#umnvektor#0;n#!!top" expanded="false" />
           </folding>
