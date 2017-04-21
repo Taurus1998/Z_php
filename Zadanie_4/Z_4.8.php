@@ -2,7 +2,6 @@
 
 $mas = array();
 $masStr = array();
-$rezult=array();
 $n=3;
 $m=5;
 $max;
@@ -21,8 +20,6 @@ for ($i = 0; $i < $n; $i++)
 
 for ($i = 0; $i < $n; $i++)
 {
-
-
     $max=maxK($mas[$i]);
     $min=minK($mas[$i]);
     for ($j = 0; $j < $m; $j++)
