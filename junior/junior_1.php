@@ -23,7 +23,7 @@ if ($bt1 ==1){
         $sum+=$k[$i];
     }
 
-echo "Suma:".$sum.";";
+    echo "Suma:".$sum.";";
 
 }
 ?>
