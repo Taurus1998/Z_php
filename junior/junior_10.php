@@ -16,7 +16,7 @@ $bt1=$_POST["bt"];
 if ($bt1 ==1){
     $n=$_POST["n"];
     echo $mas[(($n-1924)%12)];
-    echo "0";
+   
 }
 ?>
 
