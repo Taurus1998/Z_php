@@ -32,8 +32,6 @@ for ($i = 0; $i < $n; $i++)
         {
             echo " ".$mas[$i][$j];
         }
-
-
     }
     echo "<br>";
 }
