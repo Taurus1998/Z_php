@@ -15,16 +15,16 @@ for ($i=0;$i<count($mas);$i++)
 {
     if($mas[$i]==max($mas))
     {
-        $maxIndex=$i;
+        $mas[$i]=min($mas);
     }
     if($mas[$i]==min($mas))
     {
-        $minIndex=$i;
+        $mas[$i]=max($mas);
     }
 
 }
 
-list($mas[$minIndex], $mas[$maxIndex]) = array($mas[$maxIndex], $mas[$minIndex]);
+//list($mas[$minIndex], $mas[$maxIndex]) = array($mas[$maxIndex], $mas[$minIndex]);
 echo "<br>";
 for ($i = 0; $i < $n; $i++)
 {
