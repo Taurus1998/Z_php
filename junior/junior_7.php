@@ -2,7 +2,7 @@
 </head>
 <body>
 <form action="junior_7.php" method="POST">
-    <input type="number" min="1" name="n"  value="1">
+    <input type="number" min="1" max="59" name="n"  value="1">
     <button name="bt" value="1"  type="submit" class="button button_action">
         Enter
     </button>
@@ -13,7 +13,8 @@
 <?php
 $bt1=$_POST["bt"];
 if ($bt1 ==1){
-    $minut=intval( date("i"));
+    $n=$_POST["n"];
+    $minut=intval($n);
     if ($minut%5<=3 && $minut%5<>0)
     {
         echo "Горит зеленый.";
