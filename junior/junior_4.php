@@ -1,8 +1,8 @@
 <?php
 $mas = array();
 $n=10;
-$maxIndex;
-$minIndex;
+$maxI;
+$minI;
 
     for ($i = 0; $i < $n; $i++)
     {
@@ -10,18 +10,20 @@ $minIndex;
         echo " ".$mas[$i]."_";
     }
     echo "<br>";
+$maxI=max($mas);
+$minI=min($mas);
 
 for ($i=0;$i<count($mas);$i++)
 {
-    if($mas[$i]==max($mas))
+    if($mas[$i]==$maxI)
     {
-        $mas[$i]=min($mas);
+        $mas[$i]=$minI;
     }
     else
     {        
-    if($mas[$i]==min($mas))
+    if($mas[$i]==$minI)
     {
-        $mas[$i]=max($mas);
+        $mas[$i]=$maxI;
     }
     }
 
