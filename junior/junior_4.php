@@ -17,9 +17,12 @@ for ($i=0;$i<count($mas);$i++)
     {
         $mas[$i]=min($mas);
     }
+    else
+    {        
     if($mas[$i]==min($mas))
     {
         $mas[$i]=max($mas);
+    }
     }
 
 }
